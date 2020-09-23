@@ -1,0 +1,40 @@
+.banner {
+    background: url("https://wirlybalitour.com/wp-content/uploads/2019/12/Daftar-Tempat-Wisata-Di-Pulau-Bali.jpg");
+    height: 50vh;
+    position: relative;
+}
+
+.banner__info {
+    background-color: rgb(104, 116, 100);
+    color: white;
+    /* padding-top: 12vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px; */
+    width: 250px;
+    height: 65%;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 12vh;
+
+}
+
+.banner__info > button {
+    background-color: rgb(129, 95, 101);
+    color: honeydew;
+    border: rgb(129, 95, 101);
+    margin-top: 20px;
+    text-transform: inherit;
+
+}
+
+.banner__info > h5 {
+    margin-top: 10px;
+}
+
+.banner__info > button:hover {
+    background-color: #918787;
+    border: #918787;
+    color: white;
+    font-weight: 600;
+}
