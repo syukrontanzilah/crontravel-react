@@ -15,8 +15,20 @@
     height: 65%;
     padding-right: 50px;
     padding-left: 50px;
-    padding-top: 12vh;
+    padding-top: 8vh;
 
+}
+
+.banner__search {
+    display: flex;
+    flex-direction: column;
+}
+.banner__searchButton {
+    background-color: #fff !important;
+    text-transform: inherit !important;
+    color: rgb(104, 116, 100)!important; 
+    border: green !important;
+    border-radius: 0px !important;
 }
 
 .banner__info > button {
